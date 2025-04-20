@@ -39,7 +39,7 @@ Does gender or age group influence attrition trends?
 
 Which employees are at high risk of leaving based on prediction models?
 
--Dashboard Interaction<a href="C:\Users\DELL\Downloads\powerbimini">View Dashboard</a>
+-Dashboard Interaction<a href="https://github.com/Mayurijadhav812/HR-Analysis-Dashboard/blob/main/Screenshot%202025-01-04%20115940.png">View Dashboard</a>
 
 ## HR Dashboard Process
 
