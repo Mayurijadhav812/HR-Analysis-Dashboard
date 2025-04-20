@@ -7,8 +7,11 @@
 The main objective of this project is to develop an interactive HR Analytics Dashboard that helps organizations:
 
 Understand key factors affecting employee attrition
+
 Identify patterns and trends in employee performance and retention
+
 Predict potential attrition using machine learning models
+
 Make informed decisions to improve employee engagement, satisfaction, and reduce turnover
 
 
