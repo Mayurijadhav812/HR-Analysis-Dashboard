@@ -43,11 +43,15 @@ Which employees are at high risk of leaving based on prediction models?
 
 ## HR Dashboard Process
 
- Collected Data from Kaggle/Google Form
- Cleaned & Prepared Data (handled nulls, encoding, scaling)
- Built ML Model to predict attrition
- Created Dashboard with key HR insights
- Analyzed KPIs to improve employee retention
+ 1] Collected Data from Kaggle/Google Form
+ 2] Cleaned & Prepared Data (handled nulls, encoding, scaling)
+ 3] Built ML Model to predict attrition
+ 4] Created Dashboard with key HR insights
+ 5] Analyzed KPIs to improve employee retention
+
+##Dashboard
+
+<img width="480" alt="Screenshot 2025-01-04 115940" src="https://github.com/user-attachments/assets/3c946d99-55e0-4759-8648-9b3009e4e73e" />
 
 
 
