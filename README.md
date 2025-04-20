@@ -39,5 +39,17 @@ Does gender or age group influence attrition trends?
 
 Which employees are at high risk of leaving based on prediction models?
 
+-Dashboard Interaction<a href="C:\Users\DELL\Downloads\powerbimini">View Dashboard</a>
+
+## HR Dashboard Process
+
+1] Collected Data from Kaggle/Google Form
+2] Cleaned & Prepared Data (handled nulls, encoding, scaling)
+3] Built ML Model to predict attrition
+4] Created Dashboard with key HR insights
+5] Analyzed KPIs to improve employee retention
+
+
+
 
 
